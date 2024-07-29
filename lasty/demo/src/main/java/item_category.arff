@@ -1,0 +1,23 @@
+@relation item_category
+
+@attribute item_category {Electronics, Clothing, Furniture}
+@attribute item_name string
+@attribute brand string
+@attribute ram string
+@attribute model string
+@attribute colour string
+@attribute size string
+@attribute type string
+
+@data
+Electronics, "iPhone X", Apple, 8GB, "iPhone X", Silver, ?, ?
+Clothing, "Top", Nike, ?, ?, Black, Large, ?
+Furniture, "IKEA Sofa", IKEA, ?, ?, Brown, ?, Sofa
+Electronics, "Console", Sony, ?, "play station 5", gold, ?, ?
+Furniture, "IKEA Bookcase", IKEA, ?, ?, white, ?, Bookcase
+Clothing, "Shoes", Nike, ?, ?, blue, 7, ?
+Clothing, "Jacket", Next, ?, ?, blue, Medium, ?
+Furniture, "DFS Chair", DFS, ?, ?, white, ?, chair
+Electronics, "Air Pods", Apple, ?, ?, white, ?, ?
+Electronics, "Samsung S20", Samsung, 6GB, S20, green, ?, ?
+Electronics, "Samsung S10", Samsung, 3GB, S10, black, ?, ?

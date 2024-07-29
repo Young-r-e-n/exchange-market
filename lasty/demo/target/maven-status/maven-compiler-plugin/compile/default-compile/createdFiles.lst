@@ -1,0 +1,15 @@
+AddItemServlet.class
+LogoutServlet.class
+com\CreateModel.class
+FinalizeExchangeServlet.class
+com\Item.class
+ConfirmExchangesServlet.class
+LoginServlet.class
+com\DatabaseUtils.class
+com\ClassifyItemServlet.class
+com\Exchange.class
+ConfirmExchangeServlet.class
+RegisterServlet.class
+ExpressInterestServlet.class
+UpdateItemServlet.class
+ListItemsServlet.class
